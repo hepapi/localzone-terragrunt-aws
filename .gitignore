@@ -1,0 +1,11 @@
+.terragrunt-cache
+.terraform.lock.hcl
+other
+.terragrunt*
+._*
+ignore
+ignore/*
+.DS_Store
+.vscode/
+rancher/
+test/
